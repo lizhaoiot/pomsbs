@@ -1,0 +1,12 @@
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/bin/Debug/netcoreapp3.1/YiSha.Util.deps.json
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/bin/Debug/netcoreapp3.1/YiSha.Util.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/bin/Debug/netcoreapp3.1/YiSha.Util.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/bin/Debug/netcoreapp3.1/YiSha.Enum.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/bin/Debug/netcoreapp3.1/YiSha.Enum.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.csprojAssemblyReference.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.AssemblyInfoInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.AssemblyInfo.cs
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.csproj.CoreCompileInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.csproj.CopyComplete
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/Debug/netcoreapp3.1/YiSha.Util.pdb

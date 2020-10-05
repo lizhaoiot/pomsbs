@@ -1,0 +1,8 @@
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/bin/Debug/netcoreapp3.1/YiSha.Enum.deps.json
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/bin/Debug/netcoreapp3.1/YiSha.Enum.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/bin/Debug/netcoreapp3.1/YiSha.Enum.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/Debug/netcoreapp3.1/YiSha.Enum.AssemblyInfoInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/Debug/netcoreapp3.1/YiSha.Enum.AssemblyInfo.cs
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/Debug/netcoreapp3.1/YiSha.Enum.csproj.CoreCompileInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/Debug/netcoreapp3.1/YiSha.Enum.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/Debug/netcoreapp3.1/YiSha.Enum.pdb

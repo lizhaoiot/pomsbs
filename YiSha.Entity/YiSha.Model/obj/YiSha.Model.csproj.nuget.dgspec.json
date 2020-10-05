@@ -1,0 +1,847 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj": {}
+  },
+  "projects": {
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
+        "projectName": "YiSha.Cache.Factory",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj",
+        "projectName": "YiSha.Cache.Interface",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj",
+        "projectName": "YiSha.MemoryCache",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj",
+        "projectName": "YiSha.RedisCache",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.600, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/YiSha.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/YiSha.Data.EF.csproj",
+        "projectName": "YiSha.Data.EF",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/YiSha.Data.EF.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/YiSha.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/YiSha.Data.Repository.csproj",
+        "projectName": "YiSha.Data.Repository",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/YiSha.Data.Repository.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/YiSha.Data.EF.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.EF/YiSha.Data.EF.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj",
+        "projectName": "YiSha.Data",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/YiSha.Data.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.61.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj",
+        "projectName": "YiSha.Entity",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/YiSha.IdGenerator.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/YiSha.IdGenerator.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/YiSha.Web.Code.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/YiSha.Web.Code.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj",
+        "projectName": "YiSha.Enum",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
+        "projectName": "YiSha.Model",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/YiSha.IdGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/YiSha.IdGenerator.csproj",
+        "projectName": "YiSha.IdGenerator",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/YiSha.IdGenerator.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.IdGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj",
+        "projectName": "YiSha.Util",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/YiSha.Web.Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/YiSha.Web.Code.csproj",
+        "projectName": "YiSha.Web.Code",
+        "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/YiSha.Web.Code.csproj",
+        "packagesPath": "/Users/lizhao/.nuget/packages/",
+        "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Web.Code/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lizhao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/YiSha.Data.Repository.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data.Repository/YiSha.Data.Repository.csproj"
+              },
+              "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+                "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

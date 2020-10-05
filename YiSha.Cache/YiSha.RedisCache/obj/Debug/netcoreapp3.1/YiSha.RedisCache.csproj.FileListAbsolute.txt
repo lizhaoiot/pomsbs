@@ -1,0 +1,16 @@
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.RedisCache.deps.json
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.RedisCache.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.RedisCache.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Cache.Interface.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Enum.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Util.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Util.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Cache.Interface.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/bin/Debug/netcoreapp3.1/YiSha.Enum.pdb
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.csprojAssemblyReference.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.AssemblyInfoInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.AssemblyInfo.cs
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.csproj.CoreCompileInputs.cache
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.csproj.CopyComplete
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.dll
+/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/obj/Debug/netcoreapp3.1/YiSha.RedisCache.pdb

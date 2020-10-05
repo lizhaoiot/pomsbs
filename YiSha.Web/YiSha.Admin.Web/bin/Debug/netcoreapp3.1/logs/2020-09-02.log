@@ -1,0 +1,4 @@
+2020-09-02 15:52:14.9878||DEBUG||程序启动 |ContentRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web |WebRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web/wwwroot |IsDevelopment:True |url: |action: 
+2020-09-02 15:52:16.4272|35|WARN|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|No XML encryptor configured. Key {56cbeaa7-ee05-4930-a116-121b3aaf89a3} may be persisted to storage in unencrypted form. |url: |action: 
+2020-09-02 15:52:26.3488||DEBUG||程序启动 |ContentRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web |WebRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web/wwwroot |IsDevelopment:True |url: |action: 
+2020-09-02 15:54:15.1750||DEBUG||程序启动 |ContentRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web |WebRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web/wwwroot |IsDevelopment:True |url: |action: 

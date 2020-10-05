@@ -1,0 +1,270 @@
+2020-09-04 20:39:11.3374||DEBUG||程序启动 |ContentRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web |WebRootPath:/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web/wwwroot |IsDevelopment:True |url: |action: 
+2020-09-04 20:43:35.7018||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:36.2615||ERROR||'GBK' is not a supported encoding name. For information on defining a custom encoding, see the documentation for the Encoding.RegisterProvider method. (Parameter 'name')
+   at System.Text.EncodingTable.InternalGetCodePageFromName(String name)
+   at System.Text.EncodingTable.GetCodePageFromName(String name)
+   at System.Text.Encoding.GetEncoding(String name)
+   at YiSha.Util.HttpHelper.GetHttpRequestData(HttpItem objhttpitem) in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/HttpHelper.cs:line 223
+   at YiSha.Util.HttpHelper.GetHtml(HttpItem httpItem) in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/HttpHelper.cs:line 463
+   at YiSha.Util.IpLocationHelper.GetIpLocationFromPCOnline(String ipAddress) in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/IpLocationHelper.cs:line 54
+   at YiSha.Util.IpLocationHelper.GetIpLocation(String ipAddress) in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/IpLocationHelper.cs:line 22
+ |url: http://localhost/ToolManage/Server/GetServerIpJson|action: GetServerIpJson
+2020-09-04 20:43:38.4019||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:41.4124||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:44.4084||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:47.4154||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:50.4280||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:53.3972||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:56.4075||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:43:59.4184||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:02.4312||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:05.3893||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:08.3933||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:11.4064||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:14.3985||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:17.4048||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:20.4055||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:23.4179||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:26.4170||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:29.3999||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:32.3971||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:35.4039||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:38.4045||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:41.4064||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:44.4089||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:47.4110||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:50.4124||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:53.4123||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:56.4126||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:44:59.4160||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:02.4116||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:05.4161||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:08.4084||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:11.4259||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:14.4072||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:17.4144||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:20.4084||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:23.4169||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:26.4181||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:29.4324||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:35.4172||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:39.1337||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:45.7681||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:45:55.3104||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:46:15.5244||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:46:28.8603||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:46:58.9125||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:47:08.8820||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:47:38.9093||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:47:48.8882||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:48:08.8583||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:48:38.9075||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
+2020-09-04 20:48:55.4013||ERROR||Index was outside the bounds of the array.
+   at YiSha.Util.MemoryMetricsClient.GetUnixMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 123
+   at YiSha.Util.MemoryMetricsClient.GetMetrics() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 97
+   at YiSha.Util.ComputerHelper.GetComputerInfo() in /Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/ComputerHelper.cs:line 20
+ |url: http://localhost/ToolManage/Server/GetServerJson|action: GetServerJson
