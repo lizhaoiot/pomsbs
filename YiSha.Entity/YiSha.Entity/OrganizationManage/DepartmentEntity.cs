@@ -9,6 +9,9 @@ using YiSha.Util;
 
 namespace YiSha.Entity.OrganizationManage
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [Table("SysDepartment")]
     public class DepartmentEntity : BaseExtensionEntity
     {

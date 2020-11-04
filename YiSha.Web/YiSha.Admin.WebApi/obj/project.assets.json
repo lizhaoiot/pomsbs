@@ -6546,11 +6546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.WebApi/YiSha.Admin.WebApi.csproj",
+      "projectUniqueName": "/Users/lizhao/projects/pomsbs/YiSha.Web/YiSha.Admin.WebApi/YiSha.Admin.WebApi.csproj",
       "projectName": "YiSha.Admin.WebApi",
-      "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.WebApi/YiSha.Admin.WebApi.csproj",
+      "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Web/YiSha.Admin.WebApi/YiSha.Admin.WebApi.csproj",
       "packagesPath": "/Users/lizhao/.nuget/packages/",
-      "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.WebApi/obj/",
+      "outputPath": "/Users/lizhao/projects/pomsbs/YiSha.Web/YiSha.Admin.WebApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6567,14 +6567,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business/YiSha.Business.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business/YiSha.Business.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business/YiSha.Business.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business/YiSha.Business.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
             }
           }
         }

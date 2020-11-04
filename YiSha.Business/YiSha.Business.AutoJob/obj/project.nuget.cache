@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/Hzy609MfwLULeg9ti62pfnOHDsbDeC2s64fi3G+0K9j0pQfMoWj1RLJl5m0lyffy0dLWyH+m8mhe+Ef/8ETw==",
+  "dgSpecHash": "E/vhDcflDHDfAkSJ/LxeKhqfTqL542/94qtmzwOB2HQ6x2UsCdhpw551p2g1RbMH/FnjQzLheND3tvl1S+I87A==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
   "expectedPackageFiles": [
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",

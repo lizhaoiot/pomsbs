@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tGOsfhuWVRKciNjcNXSIPoQon2BFj82jA+p7giJBHicOo/YBZ9XbxXZGHkijZlsXs9nXkvCxz1bjiD93jhDiGg==",
+  "dgSpecHash": "DygMPjVlinOz/CXvWoRP1CAFrktgckjvy1Vqsykm1shQUvUPRm5jeqATBPYrFPZK1qEAjMhPmQyN9PqSw1yBsQ==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business/YiSha.Business.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business/YiSha.Business.csproj",
   "expectedPackageFiles": [
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",

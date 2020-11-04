@@ -5883,11 +5883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
+      "projectUniqueName": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
       "projectName": "YiSha.Model",
-      "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
+      "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Model/YiSha.Model.csproj",
       "packagesPath": "/Users/lizhao/.nuget/packages/",
-      "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Model/obj/",
+      "outputPath": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Model/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5904,11 +5904,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
             }
           }
         }

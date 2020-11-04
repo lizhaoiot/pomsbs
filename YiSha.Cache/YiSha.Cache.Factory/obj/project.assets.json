@@ -1515,11 +1515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
+      "projectUniqueName": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
       "projectName": "YiSha.Cache.Factory",
-      "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
+      "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Factory/YiSha.Cache.Factory.csproj",
       "packagesPath": "/Users/lizhao/.nuget/packages/",
-      "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Factory/obj/",
+      "outputPath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Factory/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1536,17 +1536,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.RedisCache/YiSha.RedisCache.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
             }
           }
         }

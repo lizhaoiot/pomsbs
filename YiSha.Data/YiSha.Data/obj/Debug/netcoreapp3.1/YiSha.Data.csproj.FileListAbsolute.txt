@@ -12,3 +12,17 @@
 /Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.csproj.CopyComplete
 /Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.dll
 /Users/lizhao/projects/YiShaAdmin/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Data.deps.json
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Data.dll
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Data.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Enum.dll
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Util.dll
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Util.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/bin/Debug/netcoreapp3.1/YiSha.Enum.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.csprojAssemblyReference.cache
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.AssemblyInfoInputs.cache
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.AssemblyInfo.cs
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.csproj.CoreCompileInputs.cache
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.csproj.CopyComplete
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.dll
+/Users/lizhao/projects/pomsbs/YiSha.Data/YiSha.Data/obj/Debug/netcoreapp3.1/YiSha.Data.pdb

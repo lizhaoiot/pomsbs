@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1MvOR4FoqTx5oEjl2JcCU+3yDz07UYvOYzNiQzCzPsFXAzyOueEEzEHOGGurJo7HfvVr9QIrP7Qhd9WOECH/w==",
+  "dgSpecHash": "4Ei5mAohpZZxJ83WU6VHBGWEiOGqc1m8PT1/1G4i4tnw6Ws1q9BcnR5RpOlb78nMQzDWRDrvVzg+n0m9qINfTw==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Web/YiSha.Admin.Web/YiSha.Admin.Web.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Web/YiSha.Admin.Web/YiSha.Admin.Web.csproj",
   "expectedPackageFiles": [
     "/Users/lizhao/.nuget/packages/buildbundlerminifier/3.2.435/buildbundlerminifier.3.2.435.nupkg.sha512",
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",

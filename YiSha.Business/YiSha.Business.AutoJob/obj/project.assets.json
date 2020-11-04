@@ -6350,11 +6350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
+      "projectUniqueName": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
       "projectName": "YiSha.Business.AutoJob",
-      "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
+      "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/YiSha.Business.AutoJob.csproj",
       "packagesPath": "/Users/lizhao/.nuget/packages/",
-      "outputPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business.AutoJob/obj/",
+      "outputPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business.AutoJob/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6371,17 +6371,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business/YiSha.Business.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Business/YiSha.Business.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business/YiSha.Business.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Business/YiSha.Business.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Service/YiSha.Service.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Business/YiSha.Service/YiSha.Service.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Service/YiSha.Service.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Business/YiSha.Service/YiSha.Service.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Entity/YiSha.Entity.csproj"
             },
-            "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
-              "projectPath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
+            "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj": {
+              "projectPath": "/Users/lizhao/projects/pomsbs/YiSha.Util/YiSha.Util/YiSha.Util.csproj"
             }
           }
         }

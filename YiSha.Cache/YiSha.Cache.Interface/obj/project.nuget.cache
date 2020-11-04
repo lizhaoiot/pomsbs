@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHoCXaIjrjC/QecE9SE4k1FWR/Ugk6JM7FCAHdCcM8r3aM3YZfj2uCF36MG4PIF46eBegcJmiPyA0b9GD9iRYQ==",
+  "dgSpecHash": "gSp+qkcTKs42Ehf6A+VMsi71I8WO8FukTkiKs3fjs9xPK537HQOwLtWqeDrePwo2f77ZIFT7KOQtMCoMzmvJtg==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/YiSha.Cache.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8tUm7etbncv/T5WiK83YYCKTD1ndUKV7Cwn+FZ5YgU6Rjkdtqm5zAUkAfmRPyaG1kr//gsE1uCNVKq35J7jIQ==",
+  "dgSpecHash": "POmzri29ulrGQfwPh8ZFj34IyNZGb38VGvGrFRu9WjhiEg5zlwu04UfUQB3svXoNdqML6au2084KLp9n0blVjg==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.MemoryCache/YiSha.MemoryCache.csproj",
   "expectedPackageFiles": [
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "/Users/lizhao/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",

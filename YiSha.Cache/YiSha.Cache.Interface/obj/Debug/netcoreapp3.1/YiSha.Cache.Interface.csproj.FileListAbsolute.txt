@@ -7,3 +7,12 @@
 /Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.csproj.CoreCompileInputs.cache
 /Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.dll
 /Users/lizhao/projects/YiShaAdmin/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/bin/Debug/netcoreapp3.1/YiSha.Cache.Interface.deps.json
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/bin/Debug/netcoreapp3.1/YiSha.Cache.Interface.dll
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/bin/Debug/netcoreapp3.1/YiSha.Cache.Interface.pdb
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.csprojAssemblyReference.cache
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.AssemblyInfoInputs.cache
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.AssemblyInfo.cs
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.csproj.CoreCompileInputs.cache
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.dll
+/Users/lizhao/projects/pomsbs/YiSha.Cache/YiSha.Cache.Interface/obj/Debug/netcoreapp3.1/YiSha.Cache.Interface.pdb

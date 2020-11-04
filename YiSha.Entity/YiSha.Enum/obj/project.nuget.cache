@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2PNoDlyg/QkcJvCwKj9q4jLqb9sMH4lCY/enE0dJg29risiYkreI+qlCj1k+Sd4yep+wT01YQhcJ9eSNDgDpHw==",
+  "dgSpecHash": "w/qE4sTYRakOullxR8iYs2InuW+Qg4U1OcUeJmiXgr5PN0NOCN8e7GKDqRmfmyrkMFxUVfyCW+KpM1xT6QMKaw==",
   "success": true,
-  "projectFilePath": "/Users/lizhao/projects/YiShaAdmin/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj",
+  "projectFilePath": "/Users/lizhao/projects/pomsbs/YiSha.Entity/YiSha.Enum/YiSha.Enum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
